@@ -85,6 +85,8 @@ section {
    letter-spacing: 4px;
    background-color: transparent;
    border-image: linear-gradient(#3ba1cd, #1572b7);
+   border-image-slice: 10;
+   border-radius: 30px;
 
 }
 
